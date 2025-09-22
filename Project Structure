@@ -1,0 +1,9 @@
+src/test/java/
+ └── tests/
+      ├── LoginTest.java
+      ├── PunchInTest.java
+      └── CustomerTest.java
+
+src/test/resources/
+ └── testdata/
+      └── loginData.xlsx (or .csv/.properties for parametrization)
